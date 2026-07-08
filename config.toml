@@ -14,3 +14,6 @@ title = "PRINTING3DMETAL"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[outputs]
+  home = ["HTML", "JSON"]
